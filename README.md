@@ -31,7 +31,7 @@ The model is trained on a dataset containing observations of forest fire inciden
 
 ## Results
 
-The model achieves an R^2 score of 0.92 on the test set, indicating strong predictive performance. However, further analysis is needed to ensure the model's robustness and generalizability.
+The model achieves an R^2 score of 0.85 on the test set, indicating good predictive performance. However, further analysis is needed to ensure the model's robustness and generalizability.
 
 ## Future Improvements
 
