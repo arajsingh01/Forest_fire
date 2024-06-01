@@ -29,14 +29,6 @@ The model is trained on a dataset containing observations of forest fire inciden
 
 7. **Predictions and Submission**: The trained model is used to make predictions on the test set, and the results are saved to a CSV file for submission to the contest.
 
-## Usage
-
-To use the model:
-
-1. Install the required libraries listed in `requirements.txt`.
-2. Load the training and test datasets.
-3. Follow the steps outlined in the Jupyter notebook or Python script to preprocess the data, train the model, and make predictions.
-
 ## Results
 
 The model achieves an R^2 score of 0.92 on the test set, indicating strong predictive performance. However, further analysis is needed to ensure the model's robustness and generalizability.
