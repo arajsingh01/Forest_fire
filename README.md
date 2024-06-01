@@ -38,6 +38,3 @@ The model achieves an R^2 score of 0.85 on the test set, indicating good predict
 - Investigate additional feature engineering techniques to capture more complex relationships.
 - Experiment with other machine learning algorithms and ensemble methods for comparison.
 - Explore advanced model evaluation techniques such as cross-validation and learning curves.
-
-
-Feel free to customize the content based on your specific model and project requirements!
